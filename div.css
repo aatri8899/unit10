@@ -1,6 +1,9 @@
-#1stid{
+#firstid{
     color: blue;
 }
-.2nd-class{
+#secondid{
     color: red;
 }
+#thirdid{
+    color: purple;
+}   

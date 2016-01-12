@@ -1,0 +1,16 @@
+.first-class{
+    background: yellow;
+    font-weight: bold;
+}
+#firstid{
+    color: black;
+}
+#secondid{
+    color: red;
+    font-size: 30px;
+    text-align: center;
+}
+#thirdid{
+    color: blue;
+    font-size: 20px;
+}   
